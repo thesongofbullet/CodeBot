@@ -1,0 +1,91 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Data;
+using System.Linq;
+using System.Text;
+using System.Data.SQLite;
+using System.Data.Common;
+using System.Windows.Forms;
+using nutricion.VO;
+using System.Security;
+using System.Diagnostics;
+
+namespace classSQlite
+{
+    public class db
+    {
+
+        SQLiteConnection conexion = new SQLiteConnection();
+
+        private void conectar()
+        {
+            try
+            {
+
+                //string cadenaConexion = "Server=192.168.43.34;port=3306;Database=datos_personales;User id=lin;Password=58521156";
+                //string cadenaConexion = "Server=" + server + ";port=" + puerto + ";Database=" + databases + ";User id=" + id + ";Password=" + key;
+                string cadenaConexion = @"Data Source=C:\nutricion\db\nutricion.sqlite;";
+                conexion.ConnectionString = cadenaConexion;
+                if (conexion.State == ConnectionState.Open)
+                {
+                    conexion.Close();
+                    conexion.Open();
+                }
+                else
+                {
+                    conexion.Open();
+                }
+            }
+            catch (Exception ex)
+            {
+
+                Trace.TraceError(ex.Message);
+                if (ex.Message == "unable to open database file")
+                {
+                    MessageBox.Show("Se Ha Corrompido La Instalacion Del programa.\n\rDebe Reinstalar El programa.\n\rSe Cerrara el programa.", "Error Fatal", MessageBoxButtons.OK, MessageBoxIcon.Error);
+
+                    new Form1().Cerrar();
+                    Application.Exit();
+                }
+                else
+                {
+                MessageBox.Show(ex.Message);
+                }
+            }
+        }
+        public DataTable select_datatable(string query)
+        {
+            try
+            {
+                conectar();
+SQLiteCommand command = new SQLiteCommand(sql, conectar());
+SQLiteDataReader reader = command.ExecuteReader();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+                Rec = null;
+            }
+            return (Rec);
+        }
+        public SQliteDataReader select(string query)
+        {
+            conectar();
+            string str = query;
+            DataTable dataTable = new DataTable();
+            SQLiteCommand command = conexion.CreateCommand();
+            ((DbCommand)command).CommandText = str;
+            ((DbDataAdapter)new SQLiteDataAdapter(command)).Fill(dataTable);
+            conexion.Close();
+            return dataTable;
+        }
+        public void insert(string query)
+        {
+            conectar();
+            SQLiteCommand command = conexion.CreateCommand();
+            command.CommandText = query;
+            command.ExecuteNonQuery();
+            conexion.Close();
+        }
+    }
+}

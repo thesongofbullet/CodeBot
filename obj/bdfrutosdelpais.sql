@@ -1,0 +1,342 @@
+# Host: localhost  (Version: 5.5.24-log)
+# Date: 2015-12-20 21:55:37
+# Generator: MySQL-Front 5.3  (Build 4.249)
+
+/*!40101 SET NAMES latin1 */;
+
+#
+# Structure for table "187288959_2"
+#
+
+DROP TABLE IF EXISTS `187288959_2`;
+CREATE TABLE `187288959_2` (
+  `rut` varchar(255) DEFAULT NULL,
+  `nombre_contacto` varchar(255) DEFAULT NULL,
+  `numero_factura` varchar(255) DEFAULT NULL,
+  `razon_social` varchar(255) DEFAULT NULL,
+  `direccion` varchar(255) DEFAULT NULL,
+  `comuna` varchar(255) DEFAULT NULL,
+  `ciudad` varchar(255) DEFAULT NULL,
+  `vendedor` varchar(255) DEFAULT NULL,
+  `NF` varchar(255) DEFAULT NULL,
+  `palabras` varchar(255) DEFAULT NULL,
+  `vcto` varchar(255) DEFAULT NULL,
+  `telefono` varchar(50) DEFAULT NULL,
+  `giro` varchar(255) DEFAULT NULL,
+  `fecha` varchar(255) DEFAULT NULL,
+  `mano_de_obra` int(11) DEFAULT NULL,
+  `subtotales` int(11) DEFAULT NULL,
+  `iva` int(11) DEFAULT NULL,
+  `totales` int(11) DEFAULT NULL,
+  `codigo` varchar(255) DEFAULT NULL,
+  `nombre_producto` varchar(255) DEFAULT NULL,
+  `precio_venta` int(11) DEFAULT NULL,
+  `cantidad` int(11) DEFAULT NULL,
+  `total` int(11) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+#
+# Data for table "187288959_2"
+#
+
+INSERT INTO `187288959_2` VALUES (NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'7','ARROZ 500G',780,1,780),(NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'9','CARNE MOLIDA PF',700,1,700),(NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'4','CHOCLO GRANEADO 250G',550,2,1100),(NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'6','JARDINERA 300G',900,3,2700),(NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'2','PAPAS FRITAS 10MM',2000,429,858000),(NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'8','PAPAS FRITAS 15MM',880,1,880),(NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'3','PRIMAVERA 250G',780,2,1560),(NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'1','QUESO',7200,3,21600),(NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'5','QUESO LAMINA 1KG',7520,3,22560),(NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),('187288959','DIEGO','2','DUALSOFT SPA','LAS TORTOLAS 02946','CAUTIN','TEMUCO','FGHJ','DFGDFG','UN MILLON OCHENTA Y DOS MIL SETECIENTOS CINCUENTA Y SIETE','20','82538693','INFORMATICA','20_12_2015',NULL,909880,172877,1082757,NULL,NULL,NULL,NULL,NULL);
+
+#
+# Structure for table "188747736_1"
+#
+
+DROP TABLE IF EXISTS `188747736_1`;
+CREATE TABLE `188747736_1` (
+  `rut` varchar(255) DEFAULT NULL,
+  `nombre_contacto` varchar(255) DEFAULT NULL,
+  `numero_factura` varchar(255) DEFAULT NULL,
+  `razon_social` varchar(255) DEFAULT NULL,
+  `direccion` varchar(255) DEFAULT NULL,
+  `comuna` varchar(255) DEFAULT NULL,
+  `ciudad` varchar(255) DEFAULT NULL,
+  `vendedor` varchar(255) DEFAULT NULL,
+  `NF` varchar(255) DEFAULT NULL,
+  `palabras` varchar(255) DEFAULT NULL,
+  `vcto` varchar(255) DEFAULT NULL,
+  `telefono` varchar(50) DEFAULT NULL,
+  `giro` varchar(255) DEFAULT NULL,
+  `fecha` varchar(255) DEFAULT NULL,
+  `mano_de_obra` int(11) DEFAULT NULL,
+  `subtotales` int(11) DEFAULT NULL,
+  `iva` int(11) DEFAULT NULL,
+  `totales` int(11) DEFAULT NULL,
+  `codigo` varchar(255) DEFAULT NULL,
+  `nombre_producto` varchar(255) DEFAULT NULL,
+  `precio_venta` int(11) DEFAULT NULL,
+  `cantidad` int(11) DEFAULT NULL,
+  `total` int(11) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+#
+# Data for table "188747736_1"
+#
+
+INSERT INTO `188747736_1` VALUES (NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'4','CHOCLO GRANEADO 250G',550,1,550),(NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'6','JARDINERA 300G',900,3,2700),(NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'2','PAPAS FRITAS 10MM',2000,1,2000),(NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'3','PRIMAVERA 250G',780,4,3120),(NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'1','QUESO',7200,3,21600),(NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'5','QUESO LAMINA 1KG',7520,2,15040),(NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),('188747736','OSWAL MOENA','1','DUALAPP','NOSE 55 20','CAUITN','TEMUCO','ASFF','DFGDFG','CINCUENTA Y TRES MILSETECIENTOS','30 DIAS','525445544','APLICACIONES PA','20_12_2015',NULL,45010,8551,53561,NULL,NULL,NULL,NULL,NULL);
+
+#
+# Structure for table "20_12_2015"
+#
+
+DROP TABLE IF EXISTS `20_12_2015`;
+CREATE TABLE `20_12_2015` (
+  `nombre` varchar(255) NOT NULL,
+  `cant` int(11) DEFAULT NULL,
+  `medida` varchar(255) DEFAULT NULL,
+  PRIMARY KEY (`nombre`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+#
+# Data for table "20_12_2015"
+#
+
+INSERT INTO `20_12_2015` VALUES ('ARROZ 500G',0,'Kg'),('CARNE MOLIDA PF',1,'Kg'),('CHOCLO GRANEADO 250G',2,'Gr'),('JARDINERA 300G',8,'Kg'),('PAPAS FRITAS 10MM',431,'Gr'),('PAPAS FRITAS 15MM',1,'Kg'),('PRIMAVERA 250G',7,'Gr'),('QUESO',7,'Kg'),('QUESO LAMINA 1KG',8,'Kg');
+
+#
+# Structure for table "758545454_3"
+#
+
+DROP TABLE IF EXISTS `758545454_3`;
+CREATE TABLE `758545454_3` (
+  `rut` varchar(255) DEFAULT NULL,
+  `nombre_contacto` varchar(255) DEFAULT NULL,
+  `numero_factura` varchar(255) DEFAULT NULL,
+  `razon_social` varchar(255) DEFAULT NULL,
+  `direccion` varchar(255) DEFAULT NULL,
+  `comuna` varchar(255) DEFAULT NULL,
+  `ciudad` varchar(255) DEFAULT NULL,
+  `vendedor` varchar(255) DEFAULT NULL,
+  `NF` varchar(255) DEFAULT NULL,
+  `palabras` varchar(255) DEFAULT NULL,
+  `vcto` varchar(255) DEFAULT NULL,
+  `telefono` varchar(50) DEFAULT NULL,
+  `giro` varchar(255) DEFAULT NULL,
+  `fecha` varchar(255) DEFAULT NULL,
+  `mano_de_obra` int(11) DEFAULT NULL,
+  `subtotales` int(11) DEFAULT NULL,
+  `iva` int(11) DEFAULT NULL,
+  `totales` int(11) DEFAULT NULL,
+  `codigo` varchar(255) DEFAULT NULL,
+  `nombre_producto` varchar(255) DEFAULT NULL,
+  `precio_venta` int(11) DEFAULT NULL,
+  `cantidad` int(11) DEFAULT NULL,
+  `total` int(11) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+#
+# Data for table "758545454_3"
+#
+
+INSERT INTO `758545454_3` VALUES (NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'4','CHOCLO GRANEADO 250G',550,3,1650),(NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'6','JARDINERA 300G',900,2,1800),(NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'2','PAPAS FRITAS 10MM',2000,1,2000),(NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'3','PRIMAVERA 250G',780,1,780),(NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'1','QUESO',7200,1,7200),(NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'5','QUESO LAMINA 1KG',7520,3,22560),(NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),('758545454','CRISTIAN R','3','RYP MINIMARKET','LAS TORTOLAS 545','CAUTIN','TEMUCO','SADF','DFGGD','CUARENTAYDOSMIL OCHOCIENTOS VEINTIOCHO','20K','545454545','MINIMARKET','20_12_2015',NULL,35990,6838,42828,NULL,NULL,NULL,NULL,NULL);
+
+#
+# Structure for table "caja"
+#
+
+DROP TABLE IF EXISTS `caja`;
+CREATE TABLE `caja` (
+  `nombre` varchar(255) NOT NULL DEFAULT '',
+  `codigo` varchar(255) NOT NULL DEFAULT '',
+  `precio` int(11) DEFAULT NULL,
+  `cant` int(11) DEFAULT NULL,
+  `total` int(11) DEFAULT NULL,
+  `costo` int(11) DEFAULT NULL,
+  PRIMARY KEY (`nombre`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+#
+# Data for table "caja"
+#
+
+
+#
+# Structure for table "clientes"
+#
+
+DROP TABLE IF EXISTS `clientes`;
+CREATE TABLE `clientes` (
+  `rut` varchar(14) NOT NULL DEFAULT '',
+  `razon_social` varchar(15) NOT NULL DEFAULT '',
+  `giro` varchar(15) NOT NULL DEFAULT '',
+  `nombres` varchar(20) NOT NULL DEFAULT '',
+  `direccion` varchar(70) NOT NULL DEFAULT '',
+  `telefono` varchar(12) NOT NULL DEFAULT '',
+  `comuna` varchar(255) DEFAULT NULL,
+  `ciudad` varchar(255) DEFAULT NULL,
+  `vendedor` varchar(255) NOT NULL DEFAULT '',
+  `NF` varchar(255) NOT NULL DEFAULT '',
+  PRIMARY KEY (`rut`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+#
+# Data for table "clientes"
+#
+
+INSERT INTO `clientes` VALUES ('187288959','DUALSOFT SPA','INFORMATICA','DIEGO','LAS TORTOLAS 02946','82538693','CAUTIN','TEMUCO','fghj','DFGDFG'),('188747736','DUALAPP','APLICACIONES PA','OSWAL MOENA','NOSE 55 20','525445544','CAUITN','TEMUCO','asff','DFGDFG'),('758545454','RYP MINIMARKET','MINIMARKET','CRISTIAN R','LAS TORTOLAS 545','545454545','CAUTIN','TEMUCO','sadf','DFGGD');
+
+#
+# Structure for table "emision"
+#
+
+DROP TABLE IF EXISTS `emision`;
+CREATE TABLE `emision` (
+  `nfact` varchar(255) DEFAULT NULL,
+  `fecha` varchar(255) DEFAULT NULL,
+  `monto` int(11) DEFAULT NULL,
+  `rut` varchar(255) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+#
+# Data for table "emision"
+#
+
+INSERT INTO `emision` VALUES ('1','20_12_2015',53561,'188747736'),('2','20_12_2015',1082757,'187288959'),('3','20_12_2015',42828,'758545454');
+
+#
+# Structure for table "factcuad"
+#
+
+DROP TABLE IF EXISTS `factcuad`;
+CREATE TABLE `factcuad` (
+  `nfact` varchar(255) DEFAULT NULL,
+  `caja` int(11) DEFAULT NULL,
+  `restante` int(11) DEFAULT NULL,
+  `tipopago` varchar(110) DEFAULT NULL,
+  `cliente` varchar(255) DEFAULT NULL,
+  `fecha` varchar(255) DEFAULT NULL,
+  `totalfact` varchar(255) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+#
+# Data for table "factcuad"
+#
+
+
+#
+# Structure for table "factura"
+#
+
+DROP TABLE IF EXISTS `factura`;
+CREATE TABLE `factura` (
+  `tipo_documento` varchar(10) NOT NULL DEFAULT '',
+  `numero_factura` int(11) NOT NULL AUTO_INCREMENT,
+  `rut_cliente` varchar(12) NOT NULL DEFAULT '',
+  `razon_social` varchar(30) NOT NULL DEFAULT '',
+  `direccion` varchar(50) NOT NULL DEFAULT '',
+  `giro` varchar(30) NOT NULL DEFAULT '',
+  `fecha_emision` varchar(255) NOT NULL DEFAULT '',
+  `tipo_de_pago` varchar(20) NOT NULL DEFAULT '',
+  `nombre_producto` varchar(50) NOT NULL DEFAULT '',
+  `codigo` int(6) NOT NULL DEFAULT '0',
+  `cantidad_prod` int(1) NOT NULL DEFAULT '0',
+  `subtotales` int(1) NOT NULL DEFAULT '0',
+  `iva` int(3) NOT NULL DEFAULT '0',
+  `totales` int(1) DEFAULT '0',
+  PRIMARY KEY (`numero_factura`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+#
+# Data for table "factura"
+#
+
+
+#
+# Structure for table "grillafactura"
+#
+
+DROP TABLE IF EXISTS `grillafactura`;
+CREATE TABLE `grillafactura` (
+  `cod_interno` varchar(255) DEFAULT NULL,
+  `nombre_prod` varchar(255) DEFAULT NULL,
+  `cod_barra` varchar(255) DEFAULT NULL,
+  `precio_venta` int(11) DEFAULT NULL,
+  `cantidad` int(11) DEFAULT NULL,
+  `total` int(11) DEFAULT NULL,
+  `precio_costo` int(11) DEFAULT NULL,
+  `subtotal` int(11) DEFAULT NULL,
+  `iva` int(11) DEFAULT NULL,
+  `totales` int(11) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1 ROW_FORMAT=COMPACT;
+
+#
+# Data for table "grillafactura"
+#
+
+
+#
+# Structure for table "informes"
+#
+
+DROP TABLE IF EXISTS `informes`;
+CREATE TABLE `informes` (
+  `informes` varchar(255) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+#
+# Data for table "informes"
+#
+
+
+#
+# Structure for table "libro"
+#
+
+DROP TABLE IF EXISTS `libro`;
+CREATE TABLE `libro` (
+  `fecha` varchar(255) DEFAULT NULL,
+  `nfact` varchar(255) DEFAULT NULL,
+  `impuestos` int(11) DEFAULT NULL,
+  `costos` int(11) DEFAULT NULL,
+  `totalventa` int(11) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1 ROW_FORMAT=COMPACT;
+
+#
+# Data for table "libro"
+#
+
+INSERT INTO `libro` VALUES ('20_12_2015','1',8551,32080,53561),('20_12_2015','2',172877,573640,1082757),('20_12_2015','3',6838,26190,42828);
+
+#
+# Structure for table "nfact"
+#
+
+DROP TABLE IF EXISTS `nfact`;
+CREATE TABLE `nfact` (
+  `rut` varchar(255) DEFAULT NULL,
+  `n_fact` varchar(11) NOT NULL DEFAULT '',
+  `fecha` varchar(255) DEFAULT NULL,
+  `razon` varchar(255) DEFAULT NULL,
+  PRIMARY KEY (`n_fact`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+#
+# Data for table "nfact"
+#
+
+INSERT INTO `nfact` VALUES ('188747736','1','20_12_2015','DUALAPP'),('187288959','2','20_12_2015','DUALSOFT SPA'),('758545454','3','20_12_2015','RYP MINIMARKET');
+
+#
+# Structure for table "productos"
+#
+
+DROP TABLE IF EXISTS `productos`;
+CREATE TABLE `productos` (
+  `nombre_prod` varchar(255) NOT NULL DEFAULT '',
+  `cod_interno` varchar(255) NOT NULL DEFAULT '',
+  `cod_barra` varchar(255) NOT NULL DEFAULT '',
+  `precio_costo` int(11) NOT NULL DEFAULT '0',
+  `precio_venta` int(11) NOT NULL DEFAULT '0',
+  `Stock` int(11) DEFAULT NULL,
+  `medida` varchar(255) DEFAULT NULL,
+  PRIMARY KEY (`cod_interno`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+#
+# Data for table "productos"
+#
+
+INSERT INTO `productos` VALUES ('QUESO','1','1',5000,7200,30,'Kg'),('PAPAS FRITAS 10MM','2','2',1250,2000,30,'Gr'),('PRIMAVERA 250G','3','3',500,780,30,'Gr'),('CHOCLO GRANEADO 250G','4','4',380,550,50,'Gr'),('QUESO LAMINA 1KG','5','5',5600,7520,80,'Kg'),('JARDINERA 300G','6','6',750,900,500,'Kg'),('ARROZ 500G','7','7',500,780,50,'Kg'),('PAPAS FRITAS 15MM','8','8',580,880,50,'Kg'),('CARNE MOLIDA PF','9','9',500,700,50,'Kg');

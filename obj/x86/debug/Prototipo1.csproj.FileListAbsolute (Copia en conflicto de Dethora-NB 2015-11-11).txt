@@ -1,0 +1,194 @@
+c:\users\oswal\documents\visual studio 2010\Projects\Prototipo1\Prototipo1\bin\Debug\Prototipo1.exe
+c:\users\oswal\documents\visual studio 2010\Projects\Prototipo1\Prototipo1\bin\Debug\Prototipo1.pdb
+c:\users\oswal\documents\visual studio 2010\Projects\Prototipo1\Prototipo1\obj\x86\Debug\Prototipo1.frmPrincipal.resources
+c:\users\oswal\documents\visual studio 2010\Projects\Prototipo1\Prototipo1\obj\x86\Debug\Prototipo1.Properties.Resources.resources
+c:\users\oswal\documents\visual studio 2010\Projects\Prototipo1\Prototipo1\obj\x86\Debug\Prototipo1.csproj.GenerateResource.Cache
+c:\users\oswal\documents\visual studio 2010\Projects\Prototipo1\Prototipo1\obj\x86\Debug\Prototipo1.exe
+c:\users\oswal\documents\visual studio 2010\Projects\Prototipo1\Prototipo1\obj\x86\Debug\Prototipo1.pdb
+c:\users\oswal\documents\visual studio 2010\Projects\Prototipo1\Prototipo1\obj\x86\Debug\Prototipo1.frmMenu.resources
+C:\Users\Oswal\documents\visual studio 2010\Projects\Prototipo1\Prototipo1\obj\x86\Debug\Prototipo1.frmIngresoCLI.resources
+C:\Users\Oswal\documents\visual studio 2010\Projects\Prototipo1\Prototipo1\obj\x86\Debug\Prototipo1.frmListadoClientes.resources
+C:\Users\Oswal\Dropbox\Prototipo1\Prototipo1\obj\x86\Debug\Prototipo1.exe
+C:\Users\Oswal\Dropbox\Prototipo1\Prototipo1\obj\x86\Debug\Prototipo1.pdb
+C:\Users\LaBestia1.4\Desktop\Prototipo1\obj\x86\Debug\Prototipo1.exe
+C:\Users\LaBestia1.4\Desktop\Prototipo1\obj\x86\Debug\Prototipo1.pdb
+C:\Users\LaBestia1.4\Desktop\Prototipo1\obj\x86\Debug\Prototipo1.frmIngresoCLI.resources
+C:\Users\LaBestia1.4\Desktop\Prototipo1\obj\x86\Debug\Prototipo1.frmListadoClientes.resources
+C:\Users\LaBestia1.4\Desktop\Prototipo1\obj\x86\Debug\Prototipo1.frmMenu.resources
+C:\Users\LaBestia1.4\Desktop\Prototipo1\obj\x86\Debug\Prototipo1.frmPrincipal.resources
+C:\Users\LaBestia1.4\Desktop\Prototipo1\obj\x86\Debug\Prototipo1.Properties.Resources.resources
+C:\Users\LaBestia1.4\Desktop\Prototipo1\obj\x86\Debug\Prototipo1.csproj.GenerateResource.Cache
+C:\Users\LaBestia1.4\Desktop\Prototipo1\obj\x86\Debug\Prototipo1.frmGestionProductos.resources
+C:\Users\LaBestia1.4\Desktop\Prototipo1\bin\Debug\Prototipo1.exe
+C:\Users\LaBestia1.4\Desktop\Prototipo1\bin\Debug\Prototipo1.pdb
+C:\Users\LaBestia1.4\Desktop\Prototipo1\obj\x86\Debug\Prototipo1.frmAgregarProducto.resources
+C:\Users\LaBestia1.4\Desktop\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.exe
+C:\Users\LaBestia1.4\Desktop\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.pdb
+C:\Users\LaBestia1.4\Desktop\Prototipo1 - Actual Diego\bin\Debug\Prototipo1.exe
+C:\Users\LaBestia1.4\Desktop\Prototipo1 - Actual Diego\bin\Debug\Prototipo1.pdb
+C:\Users\LaBestia1.4\Desktop\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.frmAgregarProducto.resources
+C:\Users\LaBestia1.4\Desktop\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.frmGestionProductos.resources
+C:\Users\LaBestia1.4\Desktop\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.frmIngresoCLI.resources
+C:\Users\LaBestia1.4\Desktop\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.frmListadoClientes.resources
+C:\Users\LaBestia1.4\Desktop\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.frmMenu.resources
+C:\Users\LaBestia1.4\Desktop\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.frmPrincipal.resources
+C:\Users\LaBestia1.4\Desktop\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.Properties.Resources.resources
+C:\Users\LaBestia1.4\Desktop\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.csproj.GenerateResource.Cache
+C:\Users\LaBestia1.4\Desktop\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.csprojResolveAssemblyReference.cache
+C:\Users\LaBestia1.4\Desktop\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.frmFactura.resources
+C:\Users\LaBestia1.4\Desktop\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.frmCaja.resources
+C:\Users\LaBestia1.4\Dropbox\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.exe
+C:\Users\LaBestia1.4\Dropbox\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.pdb
+C:\Users\LaBestia1.4\Dropbox\Prototipo1 - Actual Diego\bin\Debug\Prototipo1.exe
+C:\Users\LaBestia1.4\Dropbox\Prototipo1 - Actual Diego\bin\Debug\Prototipo1.pdb
+C:\Users\LaBestia1.4\Dropbox\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.csprojResolveAssemblyReference.cache
+C:\Users\LaBestia1.4\Dropbox\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.frmAgregarProducto.resources
+C:\Users\LaBestia1.4\Dropbox\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.frmCaja.resources
+C:\Users\LaBestia1.4\Dropbox\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.frmFactura.resources
+C:\Users\LaBestia1.4\Dropbox\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.frmGestionProductos.resources
+C:\Users\LaBestia1.4\Dropbox\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.frmIngresoCLI.resources
+C:\Users\LaBestia1.4\Dropbox\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.frmListadoClientes.resources
+C:\Users\LaBestia1.4\Dropbox\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.frmMenu.resources
+C:\Users\LaBestia1.4\Dropbox\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.frmPrincipal.resources
+C:\Users\LaBestia1.4\Dropbox\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.Properties.Resources.resources
+C:\Users\LaBestia1.4\Dropbox\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.csproj.GenerateResource.Cache
+C:\Users\LaBestia1.4\Dropbox\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.frmLibroVentas.resources
+C:\Users\LaBestia1.4\Dropbox\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.frmAdministracion.resources
+C:\Users\LaBestia1.4\Dropbox\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.frmGuardarLibro.resources
+C:\Users\Oswal\Dropbox\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.exe
+C:\Users\Oswal\Dropbox\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.pdb
+C:\Users\Oswal\Dropbox\Prototipo1 - Actual Diego\bin\Debug\Prototipo1.exe
+C:\Users\Oswal\Dropbox\Prototipo1 - Actual Diego\bin\Debug\Prototipo1.pdb
+C:\Users\Oswal\Dropbox\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.csprojResolveAssemblyReference.cache
+C:\Users\Oswal\Dropbox\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.frmGuardarLibro.resources
+C:\Users\Oswal\Dropbox\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.frmLibroVentas.resources
+C:\Users\Oswal\Dropbox\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.frmAdministracion.resources
+C:\Users\Oswal\Dropbox\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.frmAgregarProducto.resources
+C:\Users\Oswal\Dropbox\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.frmCaja.resources
+C:\Users\Oswal\Dropbox\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.frmFactura.resources
+C:\Users\Oswal\Dropbox\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.frmGestionProductos.resources
+C:\Users\Oswal\Dropbox\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.frmIngresoCLI.resources
+C:\Users\Oswal\Dropbox\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.frmListadoClientes.resources
+C:\Users\Oswal\Dropbox\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.frmMenu.resources
+C:\Users\Oswal\Dropbox\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.frmPrincipal.resources
+C:\Users\Oswal\Dropbox\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.Properties.Resources.resources
+C:\Users\Oswal\Dropbox\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.csproj.GenerateResource.Cache
+C:\Users\Oswal\Dropbox\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.frmIngresoVehiculos.resources
+C:\Users\LaBestia1.4\Dropbox\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.frmIngresoVehiculos.resources
+C:\Users\LaBestia1.4\Dropbox\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.frmGestionClientes.resources
+C:\Users\LaBestia1.4\Dropbox\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.frmGestionVehiculos.resources
+C:\Users\Oswal\Dropbox\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.frmGestionClientes.resources
+C:\Users\Oswal\Dropbox\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.frmGestionVehiculos.resources
+C:\Users\LaBestia1.4\Dropbox\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.frmListadoVehiculos.resources
+C:\Users\LaBestia1.4\Dropbox\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.frmActualizarProductos.resources
+C:\Users\LaBestia1.4\Dropbox\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.frmBoleta.resources
+C:\Users\LaBestia1.4\Dropbox\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.frmBuscarProdCaja.resources
+C:\Users\LaBestia1.4\Dropbox\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.frmConsultarPrecio.resources
+C:\Users\LaBestia1.4\Dropbox\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.frmCotizacion.resources
+C:\Users\LaBestia1.4\Dropbox\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.frmLibrosDeVentas.resources
+C:\Users\LaBestia1.4\Dropbox\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.frmVerPerfil.resources
+C:\Users\Oswal\Dropbox\Prototipo1 - Actual Diego\bin\Debug\Database1.sdf
+C:\Users\Oswal\Dropbox\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.frmActualizarProductos.resources
+C:\Users\Oswal\Dropbox\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.frmBoleta.resources
+C:\Users\Oswal\Dropbox\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.frmBuscarProdCaja.resources
+C:\Users\Oswal\Dropbox\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.frmConsultarPrecio.resources
+C:\Users\Oswal\Dropbox\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.frmCotizacion.resources
+C:\Users\Oswal\Dropbox\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.frmLibrosDeVentas.resources
+C:\Users\Oswal\Dropbox\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.frmListadoVehiculos.resources
+C:\Users\Oswal\Dropbox\Prototipo1 - Actual Diego\obj\x86\Debug\Prototipo1.frmVerPerfil.resources
+C:\Users\LaBestia1.4\Dropbox\Prototipo1 - Actual Diego\bin\Debug\Database1.sdf
+C:\Users\Oswal\Desktop\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.exe
+C:\Users\Oswal\Desktop\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.pdb
+C:\Users\Oswal\Desktop\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.csprojResolveAssemblyReference.cache
+C:\Users\Oswal\Desktop\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmActualizarProductos.resources
+C:\Users\Oswal\Desktop\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmBoleta.resources
+C:\Users\Oswal\Desktop\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmBuscarProdCaja.resources
+C:\Users\Oswal\Desktop\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmConsultarPrecio.resources
+C:\Users\Oswal\Desktop\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmCotizacion.resources
+C:\Users\Oswal\Desktop\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmGestionClientes.resources
+C:\Users\Oswal\Desktop\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmGestionVehiculos.resources
+C:\Users\Oswal\Desktop\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmGuardarLibro.resources
+C:\Users\Oswal\Desktop\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmIngresoVehiculos.resources
+C:\Users\Oswal\Desktop\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmLibrosDeVentas.resources
+C:\Users\Oswal\Desktop\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmLibroVentas.resources
+C:\Users\Oswal\Desktop\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmAdministracion.resources
+C:\Users\Oswal\Desktop\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmAgregarProducto.resources
+C:\Users\Oswal\Desktop\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmCaja.resources
+C:\Users\Oswal\Desktop\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmFactura.resources
+C:\Users\Oswal\Desktop\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmGestionProductos.resources
+C:\Users\Oswal\Desktop\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmIngresoCLI.resources
+C:\Users\Oswal\Desktop\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmListadoClientes.resources
+C:\Users\Oswal\Desktop\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmListadoVehiculos.resources
+C:\Users\Oswal\Desktop\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmMenu.resources
+C:\Users\Oswal\Desktop\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmPrincipal.resources
+C:\Users\Oswal\Desktop\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmVerPerfil.resources
+C:\Users\Oswal\Desktop\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.Properties.Resources.resources
+C:\Users\Oswal\Desktop\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.csproj.GenerateResource.Cache
+C:\Users\Oswal\Desktop\Prototipo1 - Actual Oswall\bin\Debug\Database1.sdf
+C:\Users\Oswal\Desktop\Prototipo1 - Actual Oswall\bin\Debug\Prototipo1.exe
+C:\Users\Oswal\Desktop\Prototipo1 - Actual Oswall\bin\Debug\Prototipo1.pdb
+C:\Users\Oswal\Desktop\Prototipo1 - Actual Oswall\bin\Debug\MySql.Data.CF.dll
+C:\Users\Dethora\Desktop\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.exe
+C:\Users\Dethora\Desktop\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.pdb
+C:\Users\Dethora\Desktop\Prototipo1 - Actual Oswall\bin\Debug\Database1.sdf
+C:\Users\Dethora\Desktop\Prototipo1 - Actual Oswall\bin\Debug\Prototipo1.exe
+C:\Users\Dethora\Desktop\Prototipo1 - Actual Oswall\bin\Debug\Prototipo1.pdb
+C:\Users\Dethora\Desktop\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.csprojResolveAssemblyReference.cache
+C:\Users\Dethora\Desktop\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmActualizarProductos.resources
+C:\Users\Dethora\Desktop\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmBoleta.resources
+C:\Users\Dethora\Desktop\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmBuscarProdCaja.resources
+C:\Users\Dethora\Desktop\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmConsultarPrecio.resources
+C:\Users\Dethora\Desktop\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmCotizacion.resources
+C:\Users\Dethora\Desktop\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmGestionClientes.resources
+C:\Users\Dethora\Desktop\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmGestionVehiculos.resources
+C:\Users\Dethora\Desktop\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmGuardarLibro.resources
+C:\Users\Dethora\Desktop\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmIngresoVehiculos.resources
+C:\Users\Dethora\Desktop\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmLibrosDeVentas.resources
+C:\Users\Dethora\Desktop\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmLibroVentas.resources
+C:\Users\Dethora\Desktop\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmAdministracion.resources
+C:\Users\Dethora\Desktop\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmAgregarProducto.resources
+C:\Users\Dethora\Desktop\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmCaja.resources
+C:\Users\Dethora\Desktop\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmFactura.resources
+C:\Users\Dethora\Desktop\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmGestionProductos.resources
+C:\Users\Dethora\Desktop\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmIngresoCLI.resources
+C:\Users\Dethora\Desktop\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmListadoClientes.resources
+C:\Users\Dethora\Desktop\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmListadoVehiculos.resources
+C:\Users\Dethora\Desktop\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmMenu.resources
+C:\Users\Dethora\Desktop\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmPrincipal.resources
+C:\Users\Dethora\Desktop\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmVerPerfil.resources
+C:\Users\Dethora\Desktop\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.Properties.Resources.resources
+C:\Users\Dethora\Desktop\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.csproj.GenerateResource.Cache
+C:\Users\Oswal\Dropbox\Prototipo1 - Actual Oswall (sin implementos deko)\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.exe
+C:\Users\Oswal\Dropbox\Prototipo1 - Actual Oswall (sin implementos deko)\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.pdb
+C:\Users\Oswal\Dropbox\Prototipo1 - Actual Oswall (sin implementos deko)\Prototipo1 - Actual Oswall\bin\Debug\Database1.sdf
+C:\Users\Oswal\Dropbox\Prototipo1 - Actual Oswall (sin implementos deko)\Prototipo1 - Actual Oswall\bin\Debug\Prototipo1.exe
+C:\Users\Oswal\Dropbox\Prototipo1 - Actual Oswall (sin implementos deko)\Prototipo1 - Actual Oswall\bin\Debug\Prototipo1.pdb
+C:\Users\Oswal\Dropbox\Prototipo1 - Actual Oswall (sin implementos deko)\Prototipo1 - Actual Oswall\bin\Debug\MySql.Data.CF.dll
+C:\Users\Oswal\Dropbox\Prototipo1 - Actual Oswall (sin implementos deko)\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.csprojResolveAssemblyReference.cache
+C:\Users\Oswal\Dropbox\Prototipo1 - Actual Oswall (sin implementos deko)\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmActualizarProductos.resources
+C:\Users\Oswal\Dropbox\Prototipo1 - Actual Oswall (sin implementos deko)\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmBoleta.resources
+C:\Users\Oswal\Dropbox\Prototipo1 - Actual Oswall (sin implementos deko)\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmBuscarProdCaja.resources
+C:\Users\Oswal\Dropbox\Prototipo1 - Actual Oswall (sin implementos deko)\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmConsultarPrecio.resources
+C:\Users\Oswal\Dropbox\Prototipo1 - Actual Oswall (sin implementos deko)\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmCotizacion.resources
+C:\Users\Oswal\Dropbox\Prototipo1 - Actual Oswall (sin implementos deko)\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmGestionClientes.resources
+C:\Users\Oswal\Dropbox\Prototipo1 - Actual Oswall (sin implementos deko)\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmGestionVehiculos.resources
+C:\Users\Oswal\Dropbox\Prototipo1 - Actual Oswall (sin implementos deko)\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmGuardarLibro.resources
+C:\Users\Oswal\Dropbox\Prototipo1 - Actual Oswall (sin implementos deko)\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmIngresoVehiculos.resources
+C:\Users\Oswal\Dropbox\Prototipo1 - Actual Oswall (sin implementos deko)\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmLibrosDeVentas.resources
+C:\Users\Oswal\Dropbox\Prototipo1 - Actual Oswall (sin implementos deko)\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmLibroVentas.resources
+C:\Users\Oswal\Dropbox\Prototipo1 - Actual Oswall (sin implementos deko)\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmAdministracion.resources
+C:\Users\Oswal\Dropbox\Prototipo1 - Actual Oswall (sin implementos deko)\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmAgregarProducto.resources
+C:\Users\Oswal\Dropbox\Prototipo1 - Actual Oswall (sin implementos deko)\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmCaja.resources
+C:\Users\Oswal\Dropbox\Prototipo1 - Actual Oswall (sin implementos deko)\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmFactura.resources
+C:\Users\Oswal\Dropbox\Prototipo1 - Actual Oswall (sin implementos deko)\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmGestionProductos.resources
+C:\Users\Oswal\Dropbox\Prototipo1 - Actual Oswall (sin implementos deko)\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmIngresoCLI.resources
+C:\Users\Oswal\Dropbox\Prototipo1 - Actual Oswall (sin implementos deko)\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmListadoClientes.resources
+C:\Users\Oswal\Dropbox\Prototipo1 - Actual Oswall (sin implementos deko)\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmListadoVehiculos.resources
+C:\Users\Oswal\Dropbox\Prototipo1 - Actual Oswall (sin implementos deko)\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmMenu.resources
+C:\Users\Oswal\Dropbox\Prototipo1 - Actual Oswall (sin implementos deko)\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmPrincipal.resources
+C:\Users\Oswal\Dropbox\Prototipo1 - Actual Oswall (sin implementos deko)\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmVerPerfil.resources
+C:\Users\Oswal\Dropbox\Prototipo1 - Actual Oswall (sin implementos deko)\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.Properties.Resources.resources
+C:\Users\Oswal\Dropbox\Prototipo1 - Actual Oswall (sin implementos deko)\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.csproj.GenerateResource.Cache
+C:\Users\Oswal\Dropbox\Prototipo1 - Actual Oswall (sin implementos deko)\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.frmListaRut.resources
+C:\Users\LaBestia1.4\Dropbox\Prototipo1 - Actual Oswall (sin implementos deko)\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.exe
+C:\Users\LaBestia1.4\Dropbox\Prototipo1 - Actual Oswall (sin implementos deko)\Prototipo1 - Actual Oswall\obj\x86\Debug\Prototipo1.pdb
